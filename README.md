@@ -134,7 +134,7 @@ Hacker101 and other CTF challenge writeups with detailed methodology.
 
 ## Connect With Me
 
-I post weekly cybersecurity content including writeups, learning updates, and industry insights to over **2500 followers** on LinkedIn.
+I post weekly cybersecurity content including writeups, learning updates, and industry insights to over **3000 followers** on LinkedIn.
 
 - 💼 **LinkedIn:** [muhammad-usman-cyber](https://www.linkedin.com/in/muhammad-usman-cyber)
 - 🎯 **TryHackMe:** [muhammadusman.khurram2007](https://tryhackme.com/p/muhammadusman.khurram2007)
